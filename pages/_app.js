@@ -45,7 +45,7 @@ function MyApp({ Component, pageProps }) {
             <Head>
               <meta
                 // key="description"x"
-                property="og:description" content="STIER BACK OFFICE."/>
+                property="og:description" content="OneInch"/>
               <meta property="og:image" key="image" content="" />
             </Head>
             {/* <div className="new-dashboard"> */}
